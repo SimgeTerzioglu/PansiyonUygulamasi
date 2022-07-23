@@ -10,3 +10,5 @@ butonları bulunmaktadır.
 
 # Müşteri Ekle:
 Bu butona tıklandığında gelen sayfada gerekli müşteri bilgileri girilerek müşteri kaydedilir. Bu sayfada ayrıca odaları gösteren bir tablo daha bulunmaktadır. Bu tabloda dolu olan odalar kırmızı renk ile ve o odada kalan müşteri adı ile birlikte gösterilmektedir. Yeni müşterinin kalacağı oda boş olan odalardan birine tıklanılarak seçilir. Müşteri ekleme işlemi bu şekilde gerçekleştirilir.
+
+![](https://github.com/SimgeTerzioglu/PansiyonUygulamasi/blob/master/musteriekle.png)
