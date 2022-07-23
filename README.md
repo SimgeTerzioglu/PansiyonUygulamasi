@@ -7,6 +7,7 @@ Bu uygulama pansiyonda kalacak olan müşterileri sisteme ekleyen ve gerekli iş
 * Stok bilgisi,
 * Çıkış 
 butonları bulunmaktadır. 
+
 ![](https://github.com/SimgeTerzioglu/PansiyonUygulamasi/blob/master/anasayfa.png)
 
 # Müşteri Ekle:
@@ -16,6 +17,7 @@ Bu butona tıklandığında gelen sayfada gerekli müşteri bilgileri girilerek 
 
 # Odalar:
 Odalar sayfasında sadece odalar bulunmaktadır. Dolu olan odalar kırmızı bir renk ile gösterilir. Müşterinin adı ve hangi tarihte çıkış yapacağı da gösterilmektedir. Müşterilerin çıkış tarihi geçtikten sonra odalar tekrardan yeşil renge döner.
+
 ![](https://github.com/SimgeTerzioglu/PansiyonUygulamasi/blob/master/odalar.png)
 
 # Müşteriler:
@@ -24,11 +26,13 @@ Bu butona tıklanıldığında listeleme, güncelleme, silme, temizleme ve arama
 * Listenen müşterilerin id numarasına tıklandığında o müşterinin bilgileri yukarıdaki ilgili kutucuklara gelmektedir. Orada herhangi bir değişiklik yapılmasının ardından güncelle butonuna basıldığında müşterinin güncel bilgileri kaydedilmiş olur. 
 * Sil butonuna tıklanıldığında müşteri silinir.
 * Temizle butonuna basıldığında müşteri bilgilerinin gözüktüğü kutucuklar temizlenir. Bu alanlarda başka bir müşteri yeniden görüntülenebilir.
-* Ara butonunun altındaki kutucuğa aranmak istenen müşterinin adı veya adı ve soyadı yazıldığında o isimdeki müşteriler listelenir.
+* Ara butonunun altındaki kutucuğa aranmak istenen müşterinin adı veya adı ve soyadı yazıldığında o isimdeki müşteriler listelenir. 
+
 ![](https://github.com/SimgeTerzioglu/PansiyonUygulamasi/blob/master/musteribilgileri.png)
 
 # Stok Bilgisi: 
 Bu butona tıklanıldığında yiyecek malzemesi, içecek malzemesi ve temizlik malzemesi sayılarını girebileceğimiz alanlar gelmektedir. Gerekli sayıları girdiğimizde ekle ve azalt butonlarını kullanarak ekleme ve azaltma yapabiliriz. Her ekleme ve azaltma sonrasında güncel sayı tarihleriyle birlikte listelenir.
+
 ![](https://github.com/SimgeTerzioglu/PansiyonUygulamasi/blob/master/stokbilgileri.png)
 
 # Çıkış:
