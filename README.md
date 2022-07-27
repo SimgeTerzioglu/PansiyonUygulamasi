@@ -36,4 +36,4 @@ Bu butona tıklanıldığında yiyecek malzemesi, içecek malzemesi ve temizlik 
 ![](https://github.com/SimgeTerzioglu/PansiyonUygulamasi/blob/master/stokbilgileri.png)
 
 # Çıkış:
-Bu butona tıklanıldığında çıkış işlemi gerçekleştirilir.
+Bu butona tıklanıldığında çıkış işlemi gerçekleştirilir ve sistem kapanır.
